@@ -1,0 +1,180 @@
+@charset "ISO-8859-1";
+
+h1{
+	color: aqua;
+}
+
+#detailsPgBgColor{
+	background-color: aqua;
+	color: black;
+}
+
+#detailsPgTextColor{
+	color: black;
+}
+
+#editPgBgColor{
+	background-color: aqua;
+}
+
+#editPgTextColor{
+	color: black;
+}
+
+#createdash{
+	max-width: 650px;
+}
+
+#editformwidth{
+	max-width: 650px;
+	margin: auto;
+}
+
+#logregformatting{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#loginBorder{
+	border: aqua dotted 15px;
+	padding: 50px;
+	border-radius: 55px;
+	margin: 100px auto;
+}
+
+#regBorder{
+	border: aqua dotted 15px;
+	padding: 80px;
+	border-radius: 55px;
+}
+
+#logRegButtonpadding{
+	margin-bottom: 30px;
+}
+
+#appDescription{
+	margin: 40px auto;
+	display: flex;
+  	justify-content: center;
+}
+
+#logRegFormTextColor{
+	color: aqua;
+}
+
+#firstNameColor{
+	color: white;
+}
+
+#asteriskColor{
+	color: red;
+}
+
+#eventsStateColor{
+	color: aqua;
+}
+
+#decorationStyle{
+	text-decoration: none;
+	color: aqua;
+}
+
+#name_logout{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items:center;
+}
+
+#name_details_edit_page{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items:center;
+	margin-bottom: 20px;
+}
+
+#detailsPgTextboldness{
+	font-size: 130%;
+}
+
+#detailsSeminarName{
+	color: white;
+}
+
+
+#font_weight{
+	font-weight: 900;
+}
+
+#createFutureText{
+	margin-left: 5 px;
+}
+
+#joiningbtn{
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+#buttonsFontWeight{
+	font-weight: 940;
+}
+
+th, td {
+  padding: 5px;
+  text-align: center;
+}
+
+tr{
+	background-color: white;
+	box-shadow: 5px 10px 15px aqua, -1px -1px 6px white;
+}
+
+#regStatePadding{
+	display: block;
+	width: 100%;
+	padding: 0.375rem 0.75rem;
+	background-color: rgb(33,37,41);
+	color: white;
+	margin-left: 2px;
+	margin-top: 5px;
+	border-radius:6px;
+}
+
+#editStatePadding{
+	display: block;
+	width: 100%;
+	padding: 0.375rem 0.75rem;
+	background-color: rgb(33,37,41);
+	color: white;
+	margin-left: 2px;
+	border-radius:6px;
+
+}
+
+#createStatePadding{
+	display: block;
+	width: 100%;
+	padding: 0.375rem 0.75rem;
+	background-color: aqua;
+	color: black;
+	margin-left: 2px;
+	border-radius:6px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
